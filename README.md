@@ -1,6 +1,6 @@
-# Groophite_Artifacts
+# Artifacts
 
-A repo to storage groophite autobuild artifacts.
+A repo to storage my autobuild artifacts.
 
 
 
